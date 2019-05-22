@@ -1,5 +1,5 @@
 # Weather Analysis Dashboard
-![Images/landingResize.png](Images/landingResize.png)
+![Images/HD-Weather-Images-620x349.jpg](Images/HD-Weather-Images-620x349.jpg)
 
 ## Latitude - Latitude Analysis Dashboard with Attitude
 
