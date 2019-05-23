@@ -7,7 +7,7 @@ For this homework we created a visualization dashboard website using visualizati
  
 We used Python, Pandas, OpenWeather API, JSON, matplotlib, HTML, CSS, and Bootstrap to create 7 individual pages and a means by which we can navigate between them. These pages will contain the visualizations and their corresponding explanations, along with a landing page, a page where we can see a comparison of all of the plots, and additional page where we can view the data used to build them.
 
-The dashboard can be viewed here: https://jillcowan.github.io/11-WebHomework/.
+The dashboard can be viewed here: https://jillcowan.github.io/11-WebHomework/
 
 
 
