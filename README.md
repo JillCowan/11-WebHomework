@@ -1,7 +1,7 @@
 # Weather Analysis Dashboard
 ![Images/HD-Weather-Images-620x349.jpg](Images/HD-Weather-Images-620x349.jpg)
 
-## Latitude - Latitude Analysis Dashboard with Attitude
+## Latitude - An Analysis Dashboard with Attitude
 
 For this homework we created a visualization dashboard website using visualizations we've created in a past assignment to analyze how weather varies based on proximity to the equator.
  
